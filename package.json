@@ -1,0 +1,22 @@
+{
+  "name": "cypress-taf",
+  "version": "1.0.0",
+  "description": "Cypress Testing Project ",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmendez25/cypress-taf.git"
+  },
+  "author": "Robert Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmendez25/cypress-taf/issues"
+  },
+  "homepage": "https://github.com/rmendez25/cypress-taf#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
